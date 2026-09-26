@@ -1,0 +1,4 @@
+  2628478  12540 -rw-r--r--   1 root     root     12837660 Sep 26 06:49 working/file_working.xz
+  2628498  12488 -rw-rw-r--   1 kali     kali     12784501 Sep 26 07:10 working/file_working-dec
+  2628479  13908 -rw-r--r--   1 root     root     14234002 Sep 26 06:49 working/file_working
+  2628500  13908 -rw-r--r--   1 kali     kali     14234002 Sep 26 07:03 working/file_working_copy
